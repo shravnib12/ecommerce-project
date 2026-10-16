@@ -33,7 +33,7 @@ def search_products():
 
 def main():
     while True:
-        print("\n=== E-Commerce Store ===")
+        print("\n=== E-Commerce Store - Product Search Feature ===")
         print("1. View Products")
         print("2. Search Products")
         print("3. Exit")
